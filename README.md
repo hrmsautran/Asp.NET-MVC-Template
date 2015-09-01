@@ -1,22 +1,26 @@
 # Asp.NET-MVC-Template
 Template padrão implementado do Basic com bibliotecas Css e JS fundamentais para um projeto novo.
 
-Technology
+<h3>Technology</h3>
 
-Framework 4.5.2
-MVC 5.2.3
-Razor 3.2.3
-Optimization 1.1.0.0
-Newtonsoft.Json 7.0.1
-WebGrease 1.6.0
+<ul>
+<li>Framework 4.5.2</li>
+<li>MVC 5.2.3</li>
+<li>Razor 3.2.3</li>
+<li>Optimization 1.1.0.0</li>
+<li>Newtonsoft.Json 7.0.1</li>
+<li>WebGrease 1.6.0</li>
+</ul>
 
-Assets (Nugget Packages)
-Microsoft.AspNet.Web.Optimization
-bootstrap -Version 3.3.5
-FontAwesome
-Modernizr
-jQuery.Validation
-Microsoft.jQuery.Unobtrusive.Validation
-Microsoft.jQuery.Unobtrusive.Ajax
+<h3>Assets (Nugget Packages)</h3>
+<ul>
+<li>Microsoft.AspNet.Web.Optimization</li>
+<li>bootstrap -Version 3.3.5</li>
+<li>FontAwesome</li>
+<li>Modernizr</li>
+<li>jQuery.Validation</li>
+<li>Microsoft.jQuery.Unobtrusive.Validation</li>
+<li>Microsoft.jQuery.Unobtrusive.Ajax</li>
+</ul>
 
-Assets (Added Manually)
+<h3>Assets (Added Manually)</h3>
